@@ -1,0 +1,17 @@
+{
+  "name": "criar-apf-aesp",
+  "version": "1.3.0",
+  "description": "Skill de especialista para automação de APF AESP via script SQL.",
+  "author": "Equipe de APF",
+  "entrypoint": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "manifest.json",
+    "requirements.txt",
+    "scripts/apf_tool.py",
+    "assets/template_aesp.xlsx",
+    "references/opcoes_aesp.md",
+    "references/opcoes_consulta.md"
+  ]
+}
